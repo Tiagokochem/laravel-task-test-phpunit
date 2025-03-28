@@ -20,5 +20,8 @@ cd laravel-todo-tests
 composer install
 cp .env.example .env
 php artisan key:generate
-php artisan migrate
+php ![test](https://github.com/user-attachments/assets/a77d6858-a01d-4f4d-9714-ef7271919ef1)
+artisan migrate
 php artisan serve
+
+![Uploading test.png…]()
